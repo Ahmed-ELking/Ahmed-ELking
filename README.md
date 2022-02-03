@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Saad
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Advanced Full-Stack Eeb Development at Udacity
+- 🌱 I’m currently learning Advanced Full-Stack Web Development at Udacity
 
 
 <!---
