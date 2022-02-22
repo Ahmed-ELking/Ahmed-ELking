@@ -2,7 +2,7 @@
 
 - :computer: _Front-End | Web Developer (In progress)_
 
-- 🌱 I’m currently learning Advanced Full-Stack Web Development at [Udacity](https://www.udacity.com)
+- :man_student: I’m currently learning Advanced Full-Stack Web Development at [Udacity](https://www.udacity.com)
     
     ![Udacity](https://www.udacity.com/images/svgs/udacity-tt-logo.svg)
 
