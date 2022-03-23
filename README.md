@@ -2,9 +2,8 @@
 
 - :computer: _Front-End | Web Developer (In progress)_
 
-- :man_student: I’m currently learning Advanced Full-Stack Web Development at [Udacity](https://www.udacity.com)
+- :man_student: I’m currently learning JavaScript Algorithms and Data Structures at [freecodecamp](https://www.freecodecamp.org/learn)
     
-    ![Udacity](https://www.udacity.com/images/svgs/udacity-tt-logo.svg)
 
 - 👀 You can reach me with the links below:-
 
